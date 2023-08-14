@@ -2,5 +2,4 @@
 
 A SIMPLE TO DO LIST MADE WITH HTML CSS AND JAVASCRIPT
 
-//ADD TASKS 
-//CHECK THEM OUT ONCE DONE
+Add tasks and check them out once done.
