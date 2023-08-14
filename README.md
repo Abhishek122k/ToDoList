@@ -1,3 +1,6 @@
 # TO-DO-LIST
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-ayhluq)
+A SIMPLE TO DO LIST MADE WITH HTML CSS AND JAVASCRIPT
+
+ADD TASKS 
+CHECK THEM OUT ONCE DONE
